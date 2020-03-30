@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "iconfont";
+  src: url("../iconfont.eot?t=1583415240737"); /* IE9 */
+  src: url("../iconfont.eot?t=1583415240737#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANYAAsAAAAAB8wAAAMJAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDAIJfATYCJAMQCwoABCAFhG0HTRvWBhHVmx3IfiTGtoi3P1yuCWVZ403w/GfHe9/M280sInojsuX8yKe3ulRfXQBWUPVPuo8AsHKz6Bh1woQmGQ/+m6fsUfplv/3PMdNFCea3rV2ygvZGewMctw4o+ypoZHcgJ+g3jN1E0BCfhgAxDWiHDB0+dioOBawTQNauWrEIlwmiqJFxCGHFUUWOE+DMAfMIOMZ/X/7QRRwYAgt41sTlw5aSfe/6PbO+zM+1Hj+dHTBOgQXaAQqystK5GBsl22GJvdlKD8DhMDDVWJ/vWVmZYoYNC+C/PBAMFiQElKcAdFNSFr53xTQIfO9Dg4HvWRkW4IOo3eD0euCkiq2Xq4SYKAWESN9QU1204s6LnJeHnvtn01+9mvr69bS3b2e8eTMT6RqcFrx0Tv0Tr+a/eleFeI/4eOrDlgu5Pu9QQU7+xvKSgpMrtEKQpO4VH7yC+qtJxUPXJVhcnnQLFSSmssweMNXGZnq/ZWUN/bTJkKVV6RCZNUuG8CifNCW5eecqvPvVowfmcWmUuzGvYnGqgyGP8pQms5hu5tuZrj3UxjoDfOYLycB5XweS+YVZftFfkYqFioDXN/paQAbdKJNlaAp+5MjPP38VZUWk5HOP7mwE7LSF5huUfbPeNgLgkn/2N9x9c+n6gor9/rtEAfiwr9E9OVj2TekufPEiT/SHRB3b1JcAk6orxcIgpHTiF2wyQEwMlEneKnyZQl29cxwElxEZYChHfbA4miEV2w4CErpBiGMgxLRlxOmEqmzGIhoBbdgjgVCJ22CoQAFYKvEYqdjPEFCDfxBSSSzETJeqVya0EHDyQwwN0Uv7l6k7dkUWelF5w/BeG0tLOPEFi1NE8iTLZ2rssCl2xM9QkCpqxyaV9Dys6yGnHTM6JiN5lmmqVXdKumNzniGGhuil/cvUHbvS7vSFn79heK+NNbT0uF+wOE0ueZJ1QNbKvVPLrXwnfoaCVFE7NqkkO1aYPOSsXjSjYzIOiJ9lqnTSrspkefX2hnuAGDBPxYgVlYDo2kOBiE8ljNpy3VE4BwAAAA==")
+      format("woff2"),
+    url("../iconfont.woff?t=1583415240737") format("woff"),
+    url("../iconfont.ttf?t=1583415240737") format("truetype"),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+      url("../iconfont.svg?t=1583415240737#iconfont") format("svg"); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e633";
+}
+
+.icon-icon-test1:before {
+  content: "\e63a";
+}
+
+.icon-icon-test2:before {
+  content: "\e640";
+}
