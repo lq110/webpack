@@ -9,7 +9,7 @@
     "jquery": "^3.4.1",
     "less": "^3.11.1",
     "less-loader": "^5.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
     "sass": "^1.26.2",
     "sass-loader": "^8.0.2",
